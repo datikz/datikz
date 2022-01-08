@@ -1,5 +1,5 @@
-I'm datikz
-I'm a startup focused on natural language processing and analysis.
+Datikz
+Startup focused on natural language processing and analysis.
 
 # Mision
 Our mission is to provide natural language processing to all industries to improve people's approach to computers and move towards hyper-automation of the creation and response processes.
